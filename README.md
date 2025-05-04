@@ -27,6 +27,11 @@ I care about building scalable, maintainable, and debug-friendly systems that st
 ### 🚀 Fun fact
 Before Loqu, I bootstrapped and scaled a profitable private gym business—turning underused resources into predictable revenue. I love spotting inefficiencies in systems and turning them into opportunities.
 
+### 🤔 What I’m curious about
+- Low-level systems like OS, networking, and computer architecture.
+- Building better pipelines for more efficient and collaborative teamwork.
+
+
 ---
 
 📫 Let’s connect: [LinkedIn](https://www.linkedin.com/in/iamjunlee) | [Twitter](https://twitter.com/herecomesCaesar) | [loqu.landing-page](https://loqu.xyz)
