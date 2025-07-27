@@ -25,8 +25,8 @@ I care about building scalable, maintainable, and debug-friendly systems that st
 - Mobile + Web code sharing using Expo + React
 
 ### 🤔 What I’m curious about
-- Low-level systems like OS, networking, and computer architecture.
-- Building better pipelines for more efficient and collaborative teamwork.
+- Recommendation system
+- System Design
 
 ### 🚀 Fun fact
 Before Loqu, I bootstrapped and scaled a profitable private gym business—turning underused resources into predictable revenue. I love spotting inefficiencies in systems and turning them into opportunities.
