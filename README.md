@@ -1,39 +1,73 @@
 ## Hi there 👋 I'm Jun
 
-I'm a software developer building **Loqu**, a social language exchange app powered by AI and real human connections.  
-I care about building scalable, maintainable, and debug-friendly systems that stay efficient as they grow.
-
-### 🛠️ What I’m building
-- 🗣️ **Loqu** — a multilingual language exchange platform where users practice speaking and writing with each other, powered by AI correction and push-based habit loops
-- 💡 Built with:
-  - **Expo + React ** for true cross-platform support
-  - **AWS Amplify** for a fully serverless backend
-  - **S3 + AWS Lambda image processing** for optimized media delivery
-  - **Firebase & RevenueCat** for analytics and subscription management
-  - **i18n & multi-region support** for a truly global audience
-
-### 📈 What I've done so far
-- 🧪 Built a custom A/B testing system to measure user behavior and retention
-- 🌍 Implemented real-time push notification infrastructure with localization in 10+ languages
-- 📦 Shipped an automated image optimization pipeline using AWS Lambda
-- 💬 Designed and deployed scalable chat & thread-based feed features using AWS GraphQL
-- 💸 Launched with subscription model and full App Store / Play Store compliance
-
-### 💬 Ask me about
-- Building for scale with serverless (AWS amplify)
-- Multilingual app design and localization strategies
-- Mobile + Web code sharing using Expo + React
-
-### 🤔 What I’m curious about
-- Recommendation system
-- System Design
-
-### 🚀 Fun fact
-Before Loqu, I bootstrapped and scaled a profitable private gym business—turning underused resources into predictable revenue. I love spotting inefficiencies in systems and turning them into opportunities.
-
-
-
+I'm a software developer passionate about building **AI-native systems** and data-driven applications.
+I care about building scalable, maintainable, and debug-friendly systems — especially where AI meets real-world infrastructure.
 
 ---
 
-📫 Let’s connect: [LinkedIn](https://www.linkedin.com/in/iamjunlee) | [Twitter](https://twitter.com/herecomesCaesar) | [loqu.landing-page](https://loqu.xyz)
+### 🧠 What I'm into now
+
+- 🤖 **AI-Native Application Development** — designing systems where AI is core, not a bolt-on
+- 🔍 **RAG (Retrieval-Augmented Generation)** — building context-aware AI pipelines with vector databases
+- 🕸️ **Graph-based knowledge systems** using **Neo4j** for entity relationships and semantic traversal
+- 🐘 **PostgreSQL** + **pgvector** for hybrid relational + vector workloads
+- 📦 **Vector DB** (Pinecone, Weaviate, Chroma) for embedding-based semantic search
+- 🏗️ Scalable backend architecture with modern cloud infrastructure
+
+---
+
+### 📌 Past Projects
+
+#### 🗣️ Loqu *(completed)*
+
+A multilingual social language exchange platform — where users practiced speaking and writing with each other, powered by AI correction and push-based habit loops.
+
+**Built with:**
+- **Expo + React Native** for true cross-platform support
+- **AWS Amplify** for a fully serverless backend
+- **S3 + AWS Lambda** for automated image processing
+- **Firebase & RevenueCat** for analytics and subscription management
+- **i18n & multi-region** support for a global audience
+
+**Shipped:**
+- 🧪 Custom A/B testing system to measure user behavior and retention
+- 🌍 Real-time push notification infrastructure in 10+ languages
+- 💬 Scalable chat & thread-based feed using AWS GraphQL
+- 💸 Subscription model with full App Store / Play Store compliance
+
+---
+
+### 🛠️ Tech Stack
+
+**AI / Data**
+`LLM Integration` `RAG` `Vector DB` `Neo4j` `PostgreSQL` `pgvector` `Pinecone` `Embeddings`
+
+**Backend**
+`Node.js` `AWS Lambda` `AWS Amplify` `GraphQL` `Serverless`
+
+**Frontend / Mobile**
+`React` `React Native` `Expo` `TypeScript`
+
+**Infra / Tools**
+`S3` `Firebase` `RevenueCat` `i18n`
+
+---
+
+### 🤔 What I'm exploring
+
+- Knowledge graph + LLM hybrid reasoning
+- Multi-agent AI systems and orchestration
+- System design for high-throughput AI inference
+
+---
+
+### 🚀 Fun fact
+
+Before software, I bootstrapped and scaled a profitable private gym business — turning underused resources into predictable revenue. I love spotting inefficiencies in systems and turning them into opportunities.
+
+---
+
+### 📫 Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/iamjunlee)
+[![Twitter](https://img.shields.io/badge/Twitter-black?style=flat&logo=x)](https://twitter.com/iamjunlee)
